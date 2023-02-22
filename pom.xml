@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>tech.guanli.boot.suite</groupId>
 	<artifactId>parent</artifactId>
-	<version>1.0.1-RELEASE</version>
+	<version>1.0.2-RELEASE</version>
 	<packaging>pom</packaging>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -13,7 +13,7 @@
 		<java.version>17</java.version>
 		<mapstruct.version>1.5.1.Final</mapstruct.version>
 		<lombok-mapstuct-binding.version>0.2.0</lombok-mapstuct-binding.version>
-		<mybatis-plus.version>3.5.2</mybatis-plus.version>
+		<mybatis-plus.version>3.5.3.1</mybatis-plus.version>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
